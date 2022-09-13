@@ -54,9 +54,7 @@ $red: #c42026;
       }
       border-top: 4px solid $red;
     }
-    .dropdown-menu.dropdown-item {
-      transition: 0.5s ease;
-    }
+
     .dropdown:hover .dropdown-menu {
       display: block;
       margin-top: 0; // remove the gap so it doesn't close
