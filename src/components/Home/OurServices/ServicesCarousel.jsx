@@ -24,7 +24,7 @@ const ServicesCarousel = () => {
                     alt=""
                   />
                   <div className="card-body">
-                    <h4 className="card-title">Title</h4>
+                    <h4 className="card-title">najaf zaman</h4>
                     <p className="card-text">Text</p>
                   </div>
                 </div>
@@ -37,7 +37,7 @@ const ServicesCarousel = () => {
                     alt=""
                   />
                   <div className="card-body">
-                    <h4 className="card-title">Title</h4>
+                    <h4 className="card-title">najaf zaman</h4>
                     <p className="card-text">Text</p>
                   </div>
                 </div>
@@ -50,50 +50,7 @@ const ServicesCarousel = () => {
                     alt=""
                   />
                   <div className="card-body">
-                    <h4 className="card-title">Title</h4>
-                    <p className="card-text">Text</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="carousel-item">
-            <div className="row">
-              <div className="col-md-4">
-                <div className="card">
-                  <img
-                    className="card-img-top"
-                    src="holder.js/100x180/"
-                    alt=""
-                  />
-                  <div className="card-body">
-                    <h4 className="card-title">Title</h4>
-                    <p className="card-text">Text</p>
-                  </div>
-                </div>
-              </div>
-              <div className="col-md-4">
-                <div className="card">
-                  <img
-                    className="card-img-top"
-                    src="holder.js/100x180/"
-                    alt=""
-                  />
-                  <div className="card-body">
-                    <h4 className="card-title">Title</h4>
-                    <p className="card-text">Text</p>
-                  </div>
-                </div>
-              </div>
-              <div className="col-md-4">
-                <div className="card">
-                  <img
-                    className="card-img-top"
-                    src="holder.js/100x180/"
-                    alt=""
-                  />
-                  <div className="card-body">
-                    <h4 className="card-title">Title</h4>
+                    <h4 className="card-title">najaf zaman</h4>
                     <p className="card-text">Text</p>
                   </div>
                 </div>
@@ -110,7 +67,7 @@ const ServicesCarousel = () => {
                     alt=""
                   />
                   <div className="card-body">
-                    <h4 className="card-title">Title</h4>
+                    <h4 className="card-title">najaf zaman</h4>
                     <p className="card-text">Text</p>
                   </div>
                 </div>
@@ -123,7 +80,7 @@ const ServicesCarousel = () => {
                     alt=""
                   />
                   <div className="card-body">
-                    <h4 className="card-title">Title</h4>
+                    <h4 className="card-title">najaf zaman</h4>
                     <p className="card-text">Text</p>
                   </div>
                 </div>
@@ -136,7 +93,50 @@ const ServicesCarousel = () => {
                     alt=""
                   />
                   <div className="card-body">
-                    <h4 className="card-title">Title</h4>
+                    <h4 className="card-title">najaf zaman</h4>
+                    <p className="card-text">Text</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="carousel-item">
+            <div className="row">
+              <div className="col-md-4">
+                <div className="card">
+                  <img
+                    className="card-img-top"
+                    src="holder.js/100x180/"
+                    alt=""
+                  />
+                  <div className="card-body">
+                    <h4 className="card-title">najaf zaman</h4>
+                    <p className="card-text">Text</p>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-4">
+                <div className="card">
+                  <img
+                    className="card-img-top"
+                    src="holder.js/100x180/"
+                    alt=""
+                  />
+                  <div className="card-body">
+                    <h4 className="card-title">najaf zaman</h4>
+                    <p className="card-text">Text</p>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-4">
+                <div className="card">
+                  <img
+                    className="card-img-top"
+                    src="holder.js/100x180/"
+                    alt=""
+                  />
+                  <div className="card-body">
+                    <h4 className="card-title">najaf zaman</h4>
                     <p className="card-text">Text</p>
                   </div>
                 </div>
