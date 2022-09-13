@@ -1,0 +1,66 @@
+$light_color: #f2f2f2;
+$red: #c42026;
+
+.navbar {
+  background-color: $light_color;
+  padding: 0px;
+
+  .navbar-brand {
+    img {
+      width: 157px !important;
+      height: 100px !important;
+      &:focus {
+        outline: none;
+        box-shadow: none;
+      }
+    }
+  }
+  .navbar-nav {
+    .nav-item {
+      font-size: 17px;
+      padding-right: 20px;
+      line-height: 1em;
+      font-weight: 600;
+    }
+    &:focus {
+      color: $red !important;
+    }
+    .active a {
+      color: $red !important;
+      &:focus {
+        color: $red !important;
+      }
+    }
+
+    .btn {
+      background-color: $red;
+      color: #fff;
+      &:hover {
+        color: #ebe2e2;
+      }
+      &:focus {
+        outline: none;
+        box-shadow: none;
+      }
+    }
+    .phone_icon {
+      font-size: 20px !important;
+      font-weight: 700 !important;
+      margin-right: 5px;
+    }
+    .dropdown-menu {
+      .dropdown-item {
+        padding: 10px 10px;
+      }
+      border-top: 4px solid $red;
+    }
+    .dropdown-menu.dropdown-item {
+      transition: 0.5s ease;
+    }
+    .dropdown:hover .dropdown-menu {
+      display: block;
+      margin-top: 0; // remove the gap so it doesn't close
+      transition: 0.5s ease-out all;
+    }
+  }
+}
